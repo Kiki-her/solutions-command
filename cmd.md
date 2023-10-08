@@ -3,8 +3,8 @@
 ## Git の設定を移行
 
 ```
-git config --global user.name "kiki"
-git config --global user.email "k.kazaneko@gmalo.com"
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 ```
 
 ## SSH 鍵の移行
